@@ -1,0 +1,216 @@
+# Node.js dependencies
+**/node_modules/
+**/package-lock.json
+**/yarn.lock
+**/pnpm-lock.yaml
+
+# Build directories
+**/build/
+**/dist/
+**/.parcel-cache/
+**/.next/
+**/.nuxt/
+**/storybook-static/
+**/.turbo/
+
+# Production build
+**/out/
+
+# Cache and temporary directories
+**/.cache/
+**/.temp/
+**/.docusaurus/
+**/tmp/
+**/.vercel/
+**/.netlify/
+
+# Environment variables
+**/.env
+**/.env.local
+**/.env.development
+**/.env.development.local
+**/.env.test
+**/.env.test.local
+**/.env.production
+**/.env.production.local
+
+# Logs
+**/npm-debug.log*
+**/yarn-debug.log*
+**/yarn-error.log*
+**/pnpm-debug.log*
+
+# Testing and coverage
+**/coverage/
+**/jest/
+**/junit.xml
+**/test-results/
+**/*.snap
+**/.nyc_output/
+
+# TypeScript and ESLint cache
+**/.tsbuildinfo
+**/.eslintcache
+**/.stylelintcache
+
+# Parcel-bundler cache (if using Parcel)
+**/.parcel-cache/
+
+# IDE and editor-specific files
+**/.idea/
+**/.vscode/
+**/.vscode/*
+**/*.sublime-workspace
+**/*.sublime-project
+**/nbproject/
+**/.theia/
+**/.jetbrains/
+
+# MacOS
+**/.DS_Store
+**/.AppleDouble
+**/.LSOverride
+
+# Windows
+**/Thumbs.db
+**/ehthumbs.db
+**/Desktop.ini
+**/$RECYCLE.BIN/
+
+# Linux
+**/.fuse_hidden*
+**/.directory
+**/*.~lock.*
+
+# SASS / SCSS cache
+**/.sass-cache/
+**/.scss-cache/
+
+# Babel cache
+**/.babelrc
+**/.babel.json
+**/babel.config.js
+**/babel.config.cjs
+**/.babelrc.js
+**/.babelrc.cjs
+
+# Webpack and Rollup cache
+**/.webpack/
+**/.rollup.cache/
+**/webpack.config.js
+**/webpack.config.cjs
+**/webpack.config.ts
+**/rollup.config.js
+**/rollup.config.cjs
+**/rollup.config.ts
+
+# Prettier and formatting files
+**/.prettierrc
+**/.prettierrc.json
+**/.prettierrc.yaml
+**/.prettierrc.yml
+**/.prettierrc.js
+**/.prettierrc.cjs
+**/prettier.config.js
+**/prettier.config.cjs
+**/.prettierignore
+
+# ESLint files
+**/.eslintrc
+**/.eslintrc.json
+**/.eslintrc.yaml
+**/.eslintrc.yml
+**/.eslintrc.js
+**/.eslintrc.cjs
+
+# Stylelint files
+**/.stylelintrc
+**/.stylelintrc.json
+**/.stylelintrc.yaml
+**/.stylelintrc.yml
+**/.stylelintrc.js
+**/.stylelintrc.cjs
+**/.stylelintignore
+
+# Storybook files
+**/storybook-static/
+**/.storybook/
+
+# Docker
+**/Dockerfile
+**/docker-compose.yml
+**/docker-compose.override.yml
+
+# Firebase
+**/firebase-debug.log
+**/.firebaserc
+
+# Next.js cache
+**/.next/
+
+# Gatsby files
+**/.cache/
+**/public/
+
+# Expo (React Native) files
+**/.expo/
+**/.expo-shared/
+
+# iOS (React Native)
+**/ios/Pods/
+**/ios/build/
+**/*.xcodeproj
+**/*.xcworkspace
+**/*.xcuserdata
+**/*.xcuserdatad
+
+# Android (React Native)
+**/android/.gradle/
+**/android/app/build/
+**/android/local.properties
+**/android/gradle.properties
+**/android/key.properties
+
+# Other backup and generated files
+**/*.swp
+**/*.swo
+**/*.tmp
+**/*.bak
+**/*~
+**/#*#
+**/.log
+**/.lock
+**/.symlink
+
+# GitHub
+**/.github/
+**/.gitlab/
+**/.gitattributes
+
+# API keys or sensitive files (if applicable)
+**/secrets.json
+**/private.key
+**/config.json
+
+# IntelliJ IDEA
+**/.idea/
+**/*.iml
+**/.idea/workspace.xml
+
+# Visual Studio Code
+**/.vscode/
+**/launch.json
+**/tasks.json
+
+# Python virtual environments (if used for backend work)
+**/venv/
+**/.venv/
+
+# Miscellaneous
+**/.envrc
+**/.ruby-version
+**/.node-version
+**/.tool-versions
+**/.python-version
+**/yarn-error.log
+
